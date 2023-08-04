@@ -1,2 +1,1 @@
-#!/bin/bash
-chown vincent:staff *
+-e '#!/bin/bash\nchown vincent:staff *'
